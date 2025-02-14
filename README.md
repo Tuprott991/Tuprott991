@@ -12,8 +12,7 @@
 
 
 	
-## <picture><img src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611b3ji742s4rltlpkabt6hjxjd9o8k5y66bdzh6nfy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 40px></picture> **About me** width = 40px
-
+## <picture><img src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611b3ji742s4rltlpkabt6hjxjd9o8k5y66bdzh6nfy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 40px></picture> **About me**  
 <picture> <img align="right" src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width = 250px></picture>
 
 <br>
