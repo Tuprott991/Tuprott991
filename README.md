@@ -1,8 +1,9 @@
 
-<h1 align="center"><b>Hi , Nguyen Van Tu </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Nguyen Van Tu </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">A passionate AI-oriented Engineering student&#127470;&#127475</h3>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Nguyen+Van+Tu..&hearts;++;Self-taught+AI/Ml+Oriented+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Nguyen+Van+Tu..&hearts;++;Self-taught+AI/Ml-Oriented+Engineering,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -11,7 +12,7 @@
 
 
 	
-## <picture><img src = "https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=790b7611x94rrlvhktga2eyf1zh5vbpbwjyv8fw3dzcceh4i&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 20px></picture> **About me**
+## <picture><img src = "https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=790b7611x94rrlvhktga2eyf1zh5vbpbwjyv8fw3dzcceh4i&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 40px></picture> **About me**
 
 <picture> <img align="right" src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width = 250px></picture>
 
