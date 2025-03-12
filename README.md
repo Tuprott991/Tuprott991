@@ -20,7 +20,8 @@
 - A passionate Information Technology student at VNU-HCMUS
 - Currently Majoring in Artificial Intelligent
 - Love to build LLMs and Computer Vision project
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://file.notion.so/f/f/4507ac21-5c80-4f6a-884c-dbcde1204245/256271e0-5cb2-4b7a-ada0-9e5b3ad66f36/Resume.pdf?table=block&id=19a9f7de-4e12-8018-a6cb-cfa88cd1a19c&spaceId=4507ac21-5c80-4f6a-884c-dbcde1204245&expirationTimestamp=1739577600000&signature=zWGAkRIL8f7j_GolvXHMX0UcgVfNspuP7D6lETS-yJo&downloadName=Resume.pdf)
+- To get more information about me, this is my [Portfolio](https://tuktu-portfolio.netlify.app/)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume]([https://file.notion.so/f/f/4507ac21-5c80-4f6a-884c-dbcde1204245/256271e0-5cb2-4b7a-ada0-9e5b3ad66f36/Resume.pdf?table=block&id=19a9f7de-4e12-8018-a6cb-cfa88cd1a19c&spaceId=4507ac21-5c80-4f6a-884c-dbcde1204245&expirationTimestamp=1739577600000&signature=zWGAkRIL8f7j_GolvXHMX0UcgVfNspuP7D6lETS-yJo&downloadName=Resume.pdf](https://file.notion.so/f/f/4507ac21-5c80-4f6a-884c-dbcde1204245/0b335ca3-4352-4955-a2ee-3550c2031ed8/CV_NguyenVanTu.pdf?table=block&id=1b49f7de-4e12-8066-a4d8-eb931689c367&spaceId=4507ac21-5c80-4f6a-884c-dbcde1204245&expirationTimestamp=1741910400000&signature=a_glpYwwsu_XG2YYW6xV6xaDncvDFfuW7BYCKO2nrac&downloadName=CV_NguyenVanTu.pdf))
 
 <br>
 
