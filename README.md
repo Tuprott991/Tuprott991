@@ -21,7 +21,7 @@
 - Currently Majoring in Artificial Intelligent
 - Love to build LLMs and Computer Vision project
 - To get more information about me, this is my [Portfolio](https://tuktu-portfolio.netlify.app/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://file.notion.so/f/f/4507ac21-5c80-4f6a-884c-dbcde1204245/0b335ca3-4352-4955-a2ee-3550c2031ed8/CV_NguyenVanTu.pdf?table=block&id=1b49f7de-4e12-8066-a4d8-eb931689c367&spaceId=4507ac21-5c80-4f6a-884c-dbcde1204245&expirationTimestamp=1741910400000&signature=a_glpYwwsu_XG2YYW6xV6xaDncvDFfuW7BYCKO2nrac&downloadName=CV_NguyenVanTu.pdf)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://tuktu-portfolio.netlify.app/papers/nguyenvantu_cv.pdf)
 <br>
 
 <br>
