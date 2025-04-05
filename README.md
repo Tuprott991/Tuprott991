@@ -22,7 +22,8 @@
 - Love to build LLMs and Computer Vision project
 - To get more information about me, this is my [Portfolio](https://tuktu-portfolio.netlify.app/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://tuktu-portfolio.netlify.app/papers/nguyenvantu_cv.pdf)
-- This is [our first paper](https://tuktu-portfolio.netlify.app/papers/IUKM2025.pdf)
+- This is our first paper, accepeted at IUKM 2025: [An Interactive System For Visual Data Retrieval
+From Multimodal Input](https://tuktu-portfolio.netlify.app/papers/IUKM2025.pdf)
 <br>
 
 <br>
