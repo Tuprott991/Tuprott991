@@ -23,6 +23,8 @@
 - I’m currently open for an Intern or a new job opportunity, this is [My Resume](https://tuktu-portfolio.netlify.app/papers/Resume_NguyenVanTu.pdf)
 - This is our first paper, published at **IUKM 2025**: [An Interactive System For Visual Data Retrieval
 From Multimodal Input](https://tuktu-portfolio.netlify.app/papers/IUKM2025.pdf)
+
+![](https://komarev.com/ghpvc/?username=tuprott991)
 <br>
 
 <br>
