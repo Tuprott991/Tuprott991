@@ -20,7 +20,7 @@
 - A passionate Information Technology student at VNU-HCMUS
 - Love to build LLMs and Computer Vision project
 - To get more information about me, this is my [Portfolio](https://tuktu-portfolio.netlify.app/)
-- I’m currently open for an Intern or a new job opportunity, this is [My Resume](https://tuktu-portfolio.netlify.app/papers/Resume_NguyenVanTu.pdf)
+- I’m currently AI Engineer at **Prudential**, my resume [My Resume](https://tuktu-portfolio.netlify.app/papers/Resume_NguyenVanTu.pdf)
 - This is our first paper, published at **IUKM 2025**: [An Interactive System For Visual Data Retrieval
 From Multimodal Input](https://link.springer.com/chapter/10.1007/978-981-96-4606-7_29)
 
