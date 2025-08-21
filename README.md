@@ -20,7 +20,9 @@
 - A passionate Information Technology student at VNU-HCMUS
 - Love to build LLMs and Computer Vision project
 - To get more information about me, this is my [Portfolio](https://tuktu-portfolio.netlify.app/)
-- I’m currently AI Engineer at **Prudential**, my resume [My Resume](https://tuktu-portfolio.netlify.app/papers/Resume_NguyenVanTu.pdf)
+- I’m currently AI Engineer at **Prudential**, working on an **Agentic AI project**, focusing on **Reasoning LLMs, RAG, Document analysis, Knowledge Bases/Graphs, and Vector Databases.**
+- Previously, I gained experience in **Computer Vision**, specifically in **human cell segmentation & classification, face registration & matching, and anti-spoofing.**
+- My resume [My Resume](https://tuktu-portfolio.netlify.app/papers/Resume_NguyenVanTu.pdf)
 - This is our first paper, published at **IUKM 2025**: [An Interactive System For Visual Data Retrieval
 From Multimodal Input](https://link.springer.com/chapter/10.1007/978-981-96-4606-7_29)
 
